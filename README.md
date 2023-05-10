@@ -1,32 +1,25 @@
 # Digital Artist Prateek 
 
-I call myself the pure breed of engineers.  
+I proudly embody the essence of a true-blooded engineer.
 
-Engineering is a mindset. It is not related to tech at all. Engineering is what helped humans to survive/sustain themselves.
-An engineer is an alter ego of an artist. Generally, an artist's work is subjective whereas an engineer's work is objective. Just like artists, they are curious. 
-[Read this Twitter thread for more](https://twitter.com/AskPK123/status/1231329149039464448) :)
+Engineering isn't just about technology; it's a mindset that encompasses far more. It's deeply rooted in humanity's survival and sustenance throughout the ages. An engineer is an artist's alter ego, yet with a crucial distinction: our work is grounded in objectivity rather than subjectivity. Just like artists, we engineers possess an insatiable curiosity that drives us forward. If you're hungry for more knowledge, I invite you to dive into this captivating [Twitter thread](https://twitter.com/AskPK123/status/1231329149039464448).
 
-Let's talk about the history of this engineering mindset.
-There was a time when humans were hunting for food. Engineers realized it's not a scalable approach so they invented farming and solved the problem of starting from zero for food. 
+Let's journey into the historical foundations of the engineering mindset. In the past, our ancestors relied on hunting for their nourishment. However, we engineers quickly realized that this approach wasn't scalable. So, we ingeniously devised farming—a solution that solved the problem of starting from scratch when it came to food.
 
-The interesting thing is they jump from one thing to another. Starting from the agricultural revolution they have done great things for themselves. 
-They revolutionized industries in the last century. They need a way to mass-produce items for them. They also worked on automobiles and solved the commute problem for them and stopped. If you see the automobiles of this decade. They are just efficient versions of the last century. Basically, engineers are patching their creations to handle scale(population). The same is the case in agriculture. What they did back then was very good for the population of that time. But now things are a bit different. 
+But here's what's truly fascinating about us engineers: we never stop pushing boundaries. From the agricultural revolution onward, we engineers have consistently achieved remarkable feats. We spearheaded revolutionary changes across industries throughout the previous century, introducing mass production techniques and conquering transportation challenges through the creation of automobiles. Sure, today's vehicles may appear as mere refinements of their predecessors, but don't be fooled. Engineers have masterfully fine-tuned their creations to accommodate the ever-expanding population. The same principle applies to agriculture: the methods that served us well in the past may not be suitable for the present circumstances.
 
-Now they have jumped to Soft-Tech(Internet). After working on hard things they invented a soft world from them and oh boy. Soft-Tech has grown like the big bang. It’s growing exponentially and got so much potential in it. They believe that it can solve almost all of their problems. When does this Soft-Tech sprint end for the engineers? Well, it will end when everything is automated. And we humans are left with things we used to back before the agricultural revolution. Enjoy each other’s company.
+And now, we've set our sights on Soft-Tech—the vast world of the Internet. After conquering the realm of tangible challenges, we engineers have harnessed the immense power of the digital domain, and the results have been nothing short of extraordinary. Soft-Tech has experienced explosive growth, brimming with boundless potential. We firmly believe that it holds the key to solving nearly all our problems. So, when will this relentless sprint into Soft-Tech reach its conclusion for us engineers? Well, it won't be until automation permeates every aspect of our lives, allowing us humans to relish the simple pleasures we enjoyed before the agricultural revolution—such as the genuine connection with our fellow human beings.
 
-It will take them this century though.
+However, achieving this remarkable transformation may well take us until the end of this century.
 
+So, what lies ahead for us engineers?
 
-
-Hmm
-
-So what's next for the engineers? 
-
-Aliens, time, or even god?
+Aliens, time travel, or even the realms of divinity?
 
 =====
 
-## What is the one thing that I truly want to solve?
-I want to solve the problem of managing unstructured knowledge created by humans.
-- I want to collect my thoughts.
-- I want to search in my brain. :b
+## And now, I come face-to-face with the burning question that fuels my passion:
+
+How can we effectively tame the vast expanse of unstructured knowledge created by humanity?
+
+I yearn to organize my thoughts, to navigate the labyrinth of my mind with the utmost efficiency. I desire nothing less than an internal search engine capable of retrieving any piece of information at the blink of an eye. :b
