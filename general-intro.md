@@ -9,7 +9,7 @@ After 2008 got an internet connection. Started Blogging, and designing. Learned 
 for myself. I wrote north of 125 articles in a couple of years. Then the engineering entrances came in. 
 
 I went to YMCA Faridabad and finished college back in 2017 with not-so-good marks but enough skills to land myself the tech job I wanted. I joined SocialCops, Now Atlan (AData Intelligence company in New Delhi) as Frontend Engineer. Learned Full product engineering, backend, frontend, mobile, DevOps, and Marketing. Whatever is possible. Then finally started my own company back in 2020. :)
-----
+
 ----
 Feel free to talk to me about Engineering, Sports, Health & Fitness, Games and Toys, Anime,  Art, Automobiles etc.  
 
@@ -18,8 +18,7 @@ CTO @TeamEPYC.
 https://www.epyc.in/
 
 Find my socials here:
-Github: github.com/askprateek
-Insatgram: @digitalartistprateek
-Twitter: @askpk123
-Facebook: @askpk123
+Github: https://github.com/askprateek
+Insatgram: https://instagram.com/digitalartistprateek
+Twitter: https://twitter.com/askpk123
 Website: https://askprateek.com
